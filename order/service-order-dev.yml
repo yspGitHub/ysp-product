@@ -8,6 +8,9 @@ spring:
     url: jdbc:mysql://192.168.20.12:3306/ysp_test?characterEncoding=utf8&useSSL=false
   jpa:
     show-sql: true
+  cloud:
+    refresh:
+      refreshable: none
   rabbitmq:
     host: 192.168.186.133
     port: 5672
@@ -15,3 +18,5 @@ spring:
     password: guest
 boy:
   name: dada
+
+  
