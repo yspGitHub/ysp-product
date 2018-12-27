@@ -17,6 +17,6 @@ spring:
     username: guest
     password: guest
 boy:
-  name: dada
+  name: boom
 
   
