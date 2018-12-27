@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: Sa123654!
+    password: Sa123654!2
     url: jdbc:mysql://192.168.20.12:3306/ysp_test?characterEncoding=utf8&useSSL=false
   jpa:
     show-sql: true
