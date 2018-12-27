@@ -11,4 +11,4 @@ spring:
   rabbitmq:
    host: 192.168.186.133
 boy:
-  name: dada
+  name: didi
